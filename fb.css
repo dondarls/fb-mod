@@ -1,0 +1,41 @@
+body{background:linear-gradient(white,lightgrey); padding:0px; margin:0px;}
+.header{background:#415E9B;height:83px;width:1349px;}
+.log{float:right;margin-right:184px;margin-top:34px;font-family:sans-serif,Arial;font-weight:bold;}
+.h{background:#415E9B;height:83px;width:105px; float:right;margin-right:59px;color:white;font-family:sans-serif,Arial;font-size:12px; line-height:20px;}
+.h1{background:#415E9B;height:83px;width:150px;float:right;margin-right:14px;color:white;font-family:sans-serif,Arial;font-size:12px; line-height:20px;}
+
+.u{height:597px; width:1349px;}
+.u1{height:400px; width:500px;float:left;font-size:20px;font-weight:bold;margin-top:40px;font-family:sans-serif,Arial;margin-left:185px;line-height:29px;word-spacing:-1px;color:#0E385F;}
+.u2{height:597px; width:500px;float:left;margin-left:80px;font-family:sans-serif,Arial;}
+
+
+.birth{font-size:11px;margin-left:208px;margin-top:-29px;font-weight:normal;color:#365899;line-height:15px;} 
+.birth a{text-decoration:none;color:#365899;}
+.birth a:hover{text-decoration:underline;color:#365899;}
+
+.click{font-size:11px;margin-top:14.5px;line-height:14.5px;color:#777777;}
+.click a{text-decoration:none;color:#365899;}
+.click a:hover{text-decoration:underline;}
+
+.ce{font-size:13px; font-weight:bold;color:#8D6666;margin-top:36px;font-family:sans-serif,Arial;}
+.ce a{text-decoration:none;color:#365899;}
+.ce a:hover{text-decoration:underline;}
+
+::-moz-placeholder{font-size:18px;color:#666666;font-family:sans-serif,Arial;line-height:35px;}
+
+.footer{background:#FFF;height:176px;width:1349px;font-family:sans-serif,Arial;font-size:12px;}
+.line{background:#DDDFE2;height:0.5px;width:1000px;clear:both;margin-left:185px; margin-bottom:11px;}
+
+.Boo{margin-top:-2px;color:#365899;}
+.Boo a{text-decoration:none;color:#365899;}
+.Boo a:hover{text-decoration:underline;}
+
+.Boo1{margin-top:-2px;color:#365899;line-height:18px;}
+.Boo1 a{text-decoration:none;color:#365899;}
+.Boo1 a:hover{text-decoration:underline;}
+.Boo2{margin-top:-2px;color:#365899;line-height:16px;}
+.Boo2 a{text-decoration:none;color:#365899;}
+.Boo2 a:hover{text-decoration:underline;}
+.Boo3{margin-top:-2px;color:#365899;line-height:18px;}
+.Boo3 a{text-decoration:none;color:#365899;}
+.Boo3 a:hover{text-decoration:underline;}
